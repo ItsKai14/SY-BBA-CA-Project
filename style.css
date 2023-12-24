@@ -166,4 +166,8 @@ hr{
     .nav{
         width: fit-content;
     }
+
+    hr{
+        width: 60%;
+    }
   }
