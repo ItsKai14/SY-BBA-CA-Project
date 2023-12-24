@@ -164,10 +164,14 @@ hr{
     }
 
     .nav{
+        display: flex;
         width: fit-content;
+        justify-content: flex-start;
+        margin-left: 15%;
+        padding-top: 20px;
     }
 
     hr{
-        width: 60%;
+        width: 80%;
     }
   }
